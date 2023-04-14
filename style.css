@@ -10,8 +10,8 @@ body{
   background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7f7 100%);
   font-family: 'Poppins', sans-serif;
   display: flex;
-  align-items: left;
-  justify-content: left;
+  align-items: center;
+  justify-content: center;
   height: 100vh;
   overflow: hidden;
   margin: 0;
@@ -28,7 +28,7 @@ body{
 }
 h2{
   padding: 1rem;
-  text-align: left;
+  text-align: center;
   margin: 0;
 }
 
